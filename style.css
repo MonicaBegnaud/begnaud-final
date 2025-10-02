@@ -61,10 +61,13 @@ ul {
   font-weight: bold;
   padding: 8px 12px;
   border-radius: 6px;
-  transition: background-color 0.3s;
+  transition: 0.3s;
+  text-transform: uppercase;
 }
 
 .menu-box a:hover {
   background-color: #F8F8FF ;
   color: #000;
+  letter-spacing: 0.1em;
+  transition: 0.2s;
 }
