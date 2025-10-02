@@ -2,11 +2,6 @@ body {
   background-color: #F8F8FF; 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
-title {
-    font-size: 72px;
-    text-align:center;
-}
     
 h1, h2, h3 {
   color: #FF0000; 
@@ -43,17 +38,35 @@ ul {
     margin: 40px;
 }
 
-div {
-    width: 15em;
-    height: 15em;
-    background-color: #ddd ;
-    border: 5px solid #004baa;
-    padding: 15px;
-    margin: 15px;
+.menu-box {
+  background-color: #FF0000;   
+  padding: 10px 0;
+}
 
-    p {
-        font-size: x-large;
-        color: #004baa;
-    }
+.menu-box ul {
+  list-style-type: none;       
+  margin: 0;
+  padding: 0;
+  display: flex;               
+  justify-content: center;     
+}
+
+.menu-box li {
+  margin: 0 15px;              
+}
+
+.menu-box a {
+  text-decoration: none;
+  color: #ffffff;              
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
+
+.menu-box a:hover {
+  background-color: #F8F8FF ;
+  color: #000;
+}
 
 }
