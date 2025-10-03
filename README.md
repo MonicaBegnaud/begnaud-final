@@ -3,7 +3,7 @@ Full Project Proposal
 
 # Roadmap Sparta: My Journey to Sparta, Greece
 
-## Roadmap Sparta will be part blog, describing my personal expereinces with Spartan obstacle course races, and part training resource.
+## Roadmap Sparta will be part blog, describing my personal experiences with Spartan obstacle course races, and part training resource.
 
 ## Most people don't just wake up one morning and decide to run a minimum of 5k with roughly 20 obstacles along the way. There is planning and preperation that needs to happen first.  
 
